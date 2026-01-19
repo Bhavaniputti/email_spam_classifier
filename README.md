@@ -46,26 +46,19 @@ Public email spam dataset with ham and spam labels.
 ## ▶️ How to Run
 
 ### 1. Install dependencies
-```
-pip install -r requirements.txt
-2. Open the Jupyter Notebook
-notebook/project_spam.ipynb
+    pip install -r requirements.txt
 
-3. Run the notebook cells step by step to:
+### 2. Open the Jupyter Notebook
+    notebook/project_spam.ipynb
 
-Preprocess the dataset
-
-Train and compare models
-
-Evaluate performance
-
-Generate result visualizations
-
-📌 Conclusion
-
+### 3. Run the notebook cells step by step to:
+- Preprocess the dataset
+- Train and compare models
+- Evaluate performance
+  
+## 📌 Conclusion
 Naive Bayes achieved the best balance between precision and recall for this dataset, while Linear SVM also showed strong performance. Logistic Regression required additional tuning to improve recall.
 
-🙌 Author
-
-Putti Bhavani
+## 🙌 Author
+Putti Bhavani  
 AI & ML Student
